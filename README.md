@@ -1,4 +1,4 @@
-# curiso
+# culiso
 
 
-curiso 프로젝트 입니다.
+culiso 프로젝트 입니다.
