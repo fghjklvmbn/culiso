@@ -1,7 +1,7 @@
 # culiso
 
 culiso 프로젝트 입니다.
-express + react-native 조합으로 구성하였습니다.
+flask + python + react-native 조합으로 구성하였습니다.
 
 버전관리 : 
 마이너버전 혹은 버그수정 같은 소소한 변경은 0.1 단위로 업그레이드 하시고
