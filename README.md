@@ -1,5 +1,5 @@
 # IOT 기기 종합 제어 스마트 홈 플랫폼 : CULISO  
-![status](https://img.shields.io/badge/status-open-brightgreen?style=for-the-badge)  
+![status](https://img.shields.io/badge/status-open-brightgreen?style=for-the-badge)
 ![coverage](https://img.shields.io/badge/coverage-building-red?style=for-the-badge)  
 
   
@@ -8,8 +8,6 @@
 update date : 26/10/17(sat)  
 [IOT 기기 종합 제어 스마트 홈 플랫폼 : CULISO](https://app.notion.com/p/IOT-CULISO-3f1a9583734180a7a8b9de89c09a4b5b?source=copy_link)
 
-
----
 # 기술 스택
 ## 26년 10월 이전
 flask + python + react-native 조합으로 구성
@@ -17,7 +15,7 @@ flask + python + react-native 조합으로 구성
 ## 26년 10월 이후
 미정(기획 중)
 
----
+
 # 브랜치
 
 ## 브랜치 참고사항
@@ -35,7 +33,6 @@ flask + python + react-native 조합으로 구성
  - culiso(main과 통합예정) : 각종 개발 다이어그램이나 설계 등의 파일 저장소.
 
 
----
 
 ## 다이어그램
 
@@ -56,7 +53,6 @@ flask + python + react-native 조합으로 구성
 
 ### EER 구조도(구체화)
 
----
 
 # 흐름도
 
