@@ -1,10 +1,10 @@
 # IOT 기기 종합 제어 스마트 홈 플랫폼 : CULISO
 ---
-!(https://img.shields.io/badge/status-open-brightgreen?style=for-the-badge)
-!(https://img.shields.io/badge/coverage-building-red?style=for-the-badge)
+![status](https://img.shields.io/badge/status-open-brightgreen?style=for-the-badge)
+![coverage](https://img.shields.io/badge/coverage-building-red?style=for-the-badge)
 ---
 ## 프로젝트 안내 페이지
-[CULISO(https://app.notion.com/p/IOT-CULISO-3f1a9583734180a7a8b9de89c09a4b5b?source=copy_link)]
+[IOT 기기 종합 제어 스마트 홈 플랫폼 : CULISO](https://app.notion.com/p/IOT-CULISO-3f1a9583734180a7a8b9de89c09a4b5b?source=copy_link)
 ---
 
 update date : 26/10/17(sat)
