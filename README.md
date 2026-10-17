@@ -1,4 +1,4 @@
-# IOT 기기 종합 제어 스마트 홈 플랫폼 : CULISO  
+# CULISO : IOT 기기 종합 제어 스마트 홈 플랫폼  
 ![status](https://img.shields.io/badge/status-open-brightgreen?style=for-the-badge)
 ![coverage](https://img.shields.io/badge/coverage-building-red?style=for-the-badge)  
 
