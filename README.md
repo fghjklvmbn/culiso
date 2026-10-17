@@ -1,10 +1,19 @@
 # CULISO : IOT 기기 종합 제어 스마트 홈 플랫폼  
-![status](https://img.shields.io/badge/status-open-brightgreen?style=for-the-badge)
-![coverage](https://img.shields.io/badge/coverage-building-red?style=for-the-badge)  
-
+![status](https://img.shields.io/badge/status-open-brightgreen?style=flat-square)
+![coverage](https://img.shields.io/badge/coverage-building-red?style=flat-square)
   
-## 프로젝트 안내 페이지  
-update date : 26/10/17(sat)  
+> [!IMPORTANT]
+> 아직 완성되지 않은 플랫폼입니다. 현재 기획/설계단계 진행중이며 11월 20일 전까지 완성할 예정입니다.
+
+<!-- <div align="center">
+
+<br />
+
+<img src="../assets/rea-hopper-analysis.png" alt="REA가 Hopper 안에서 분석 브리지를 실행해 네이티브 바이너리를 검사하는 모습" width="1200" />
+
+<br /><br /> -->
+  
+## 프로젝트 안내 페이지   
 [IOT 기기 종합 제어 스마트 홈 플랫폼 : CULISO](https://app.notion.com/p/IOT-CULISO-3f1a9583734180a7a8b9de89c09a4b5b?source=copy_link)
 
 ## 기술 스택
